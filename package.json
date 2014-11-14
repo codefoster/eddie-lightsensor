@@ -1,0 +1,16 @@
+{
+  "name": "BlinkBlink",
+  "version": "0.0.0",
+  "description": "BlinkBlink",
+  "main": "app.js",
+  "author": {
+    "name": "jerfost",
+    "email": ""
+  },
+  "dependencies": {
+    "cylon": "^0.20.2",
+    "cylon-gpio": "^0.20.0",
+    "cylon-i2c": "^0.17.0",
+    "cylon-intel-iot": "^0.3.0"
+  }
+}
